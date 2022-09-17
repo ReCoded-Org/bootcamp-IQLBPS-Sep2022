@@ -4,7 +4,7 @@ Steps to boil water:
 - put on the stove
 - boil the water
 
-- Hello
-- this is line 3
-- this is line 4
-- this is line 5
+- wait
+- see if the water is boiling
+- turn the stove off
+- this is the boiling water
